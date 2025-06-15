@@ -76,4 +76,8 @@ Application woring Screenshots:
   Data stored in DB:
   ![image](https://github.com/user-attachments/assets/8ba6962d-197a-4bb6-b77c-a49535baa70a)
 
+Deployment architecture diagram to visualize the flow and connections:
+  ![Untitled Diagram drawio](https://github.com/user-attachments/assets/3edba233-0f36-4098-8ff6-14a095409a41)
+
+
 
