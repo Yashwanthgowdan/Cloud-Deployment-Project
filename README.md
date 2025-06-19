@@ -66,7 +66,7 @@ Objectives or goals of this project:
     4. Created an SSL certificate using AWS Certificate Manager (ACM) and attached it to the Elastic Load Balancer to enable HTTPS via Cloudflare's SSL/TLS settings.
        ![image](https://github.com/user-attachments/assets/4a1f31b4-84e4-4811-afd1-e0b9a3b060a2)
 
-Application woring Screenshots:
+Application working Screenshots:
   With Domain:
   ![image](https://github.com/user-attachments/assets/f7dda3d7-ec77-4cf0-96e6-177791e0803e)
 
